@@ -1,6 +1,5 @@
 ---
 title: StudyTrack Pro — User Guide
-
 ---
 
 # StudyTrack Pro — User Guide
@@ -18,9 +17,9 @@ This guide is for first‑time users (students) who want to create a study plan,
 
 ## 2. System Requirements
 
-* Windows 10/11, macOS 12+, or Ubuntu 22.04+
-* Node.js ≥ 18 (for the local web app)
-* Browser: Chrome, Firefox, Brave or Edge (latest)
+-   Windows 10/11, macOS 12+, or Ubuntu 22.04 and above
+-   Node.js ≥ 18 (for the local web app)
+-   Browser: Chrome, Firefox, Brave or Edge (latest)
 
 ## 3. Installation
 
@@ -56,10 +55,10 @@ On first launch, the wizard asks for:
 
 ## 5. Key Concepts
 
-* **Plan** – A weekly template of study blocks.
-* **Task** – A to‑do item with due date, priority, and course tag.
-* **Session** – A timed focus block (e.g., Pomodoro 25/5).
-* **Report** – An auto‑generated snapshot of hours, completion, and slipage.
+-   **Plan** – A weekly template of study blocks.
+-   **Task** – A to‑do item with due date, priority, and course tag.
+-   **Session** – A timed focus block (e.g., Pomodoro 25/5).
+-   **Report** – An auto‑generated snapshot of hours, completion, and slipage.
 
 ## 6. Creating Your First Plan
 
@@ -68,7 +67,7 @@ On first launch, the wizard asks for:
 3. Drag a **Course block** onto the grid.
 4. Click **Save as Default**.
 
-**Common mistake:** Users sometimes forget to select a course before dragging. If you see a gray block with *No Course*, click it and set a course.
+**Common mistake:** Users sometimes forget to select a course before dragging. If you see a gray block with _No Course_, click it and set a course.
 
 ## 7. Adding Tasks
 
@@ -77,7 +76,7 @@ On first launch, the wizard asks for:
 3. (Optional) Add a checklist.
 4. Click **Save**.
 
-> Example: *Lab report draft* with subtasks: outline → figures → references.
+> Example: _Lab report draft_ with subtasks: outline → figures → references.
 
 ## 8. Starting a Focus Session
 
@@ -91,18 +90,18 @@ On first launch, the wizard asks for:
 
 Navigate to **Reports → Weekly** and click **Generate**. The report includes:
 
-* Total hours per course
-* Tasks completed vs. planned
-* Top blockers and notes
-* Suggested adjustments
+-   Total hours per course
+-   Tasks completed vs. planned
+-   Top blockers and notes
+-   Suggested adjustments
 
 Click **Export** to save as PDF.
 
 ## 10. Settings
 
-* **Theme:** Light/Dark
-* **Backup:** Enable auto‑backup to local disk every 24h.
-* **Shortcuts:** Customize start/stop session hotkeys.
+-   **Theme:** Light/Dark
+-   **Backup:** Enable auto‑backup to local disk every 24h.
+-   **Shortcuts:** Customize start/stop session hotkeys.
 
 ## 11. Troubleshooting
 
@@ -126,12 +125,12 @@ All data stays on your machine unless you export or sync explicitly.
 
 ## 14. Glossary
 
-* **Slipage (sic)** – The difference between planned and actual hours. (should be *slippage*)
-* **Focus Ratio** – Minutes focused / total session minutes.
+-   **Slipage (sic)** – The difference between planned and actual hours. (should be _slippage_)
+-   **Focus Ratio** – Minutes focused / total session minutes.
 
 ## 15. Changelog
 
-* **0.1.0 (2025‑10‑17):** Initial draft of user guide; known typos left intentionally for linting exercises (e.g., *recieve*, *slipage*).
+-   **0.1.0 (2025‑10‑17):** Initial draft of user guide; known typos left intentionally for linting exercises (e.g., _recieve_, _slipage_).
 
 ---
 
@@ -139,15 +138,21 @@ All data stays on your machine unless you export or sync explicitly.
 
 ```json
 {
-  "courses": [
-    { "name": "Algorithms", "credits": 4 },
-    { "name": "Networks", "credits": 3 }
-  ],
-  "tasks": [
-    { "title": "Lab report draft", "course": "Networks", "priority": "High", "due": "2025-10-25" }
-  ]
+    "courses": [
+        { "name": "Algorithms", "credits": 4 },
+        { "name": "Networks", "credits": 3 }
+    ],
+    "tasks": [
+        {
+            "title": "Lab report draft",
+            "course": "Networks",
+            "priority": "High",
+            "due": "2025-10-25"
+        }
+    ]
 }
 ```
+
 # StudyTrack Pro — User Guide
 
 **Version:** 0.1.0
@@ -163,9 +168,9 @@ This guide is for first‑time users (students) who want to create a study plan,
 
 ## 2. System Requirements
 
-* Windows 10/11, macOS 12+, or Ubuntu 22.04 and above
-* Node.js ≥ 18 (for the local web app)
-* Browser: Chrome, Firefox, or Edge (latest)
+-   Windows 10/11, macOS 12+, or Ubuntu 22.04 and above
+-   Node.js ≥ 18 (for the local web app)
+-   Browser: Chrome, Firefox, or Edge (latest)
 
 ## 3. Installation
 
@@ -201,10 +206,10 @@ On first launch, the wizard asks for:
 
 ## 5. Key Concepts
 
-* **Plan** – A weekly template of study blocks.
-* **Task** – A to‑do item with due date, priority, and course tag.
-* **Session** – A timed focus block (e.g., Pomodoro 25/5).
-* **Report** – An auto‑generated snapshot of hours, completion, and slipage.
+-   **Plan** – A weekly template of study blocks.
+-   **Task** – A to‑do item with due date, priority, and course tag.
+-   **Session** – A timed focus block (e.g., Pomodoro 25/5).
+-   **Report** – An auto‑generated snapshot of hours, completion, and slipage.
 
 ## 6. Creating Your First Plan
 
@@ -213,7 +218,7 @@ On first launch, the wizard asks for:
 3. Drag a **Course block** onto the grid.
 4. Click **Save as Default**.
 
-**Common mistake:** Users sometimes forget to select a course before dragging. If you see a gray block with *No Course*, click it and set a course.
+**Common mistake:** Users sometimes forget to select a course before dragging. If you see a gray block with _No Course_, click it and set a course.
 
 ## 7. Adding Tasks
 
@@ -222,7 +227,7 @@ On first launch, the wizard asks for:
 3. (Optional) Add a checklist.
 4. Click **Save**.
 
-> Example: *Lab report draft* with subtasks: outline → figures → references.
+> Example: _Lab report draft_ with subtasks: outline → figures → references.
 
 ## 8. Starting a Focus Session
 
@@ -236,18 +241,18 @@ On first launch, the wizard asks for:
 
 Navigate to **Reports → Weekly** and click **Generate**. The report includes:
 
-* Total hours per course
-* Tasks completed vs. planned
-* Top blockers and notes
-* Suggested adjustments
+-   Total hours per course
+-   Tasks completed vs. planned
+-   Top blockers and notes
+-   Suggested adjustments
 
 Click **Export** to save as PDF.
 
 ## 10. Settings
 
-* **Theme:** Light/Dark
-* **Backup:** Enable auto‑backup to local disk every 24h.
-* **Shortcuts:** Customize start/stop session hotkeys.
+-   **Theme:** Light/Dark
+-   **Backup:** Enable auto‑backup to local disk every 24h.
+-   **Shortcuts:** Customize start/stop session hotkeys.
 
 ## 11. Troubleshooting
 
@@ -271,12 +276,12 @@ All data stays on your machine unless you export or sync explicitly.
 
 ## 14. Glossary
 
-* **Slipage (sic)** – The difference between planned and actual hours. (should be *slippage*)
-* **Focus Ratio** – Minutes focused / total session minutes.
+-   **Slipage (sic)** – The difference between planned and actual hours. (should be _slippage_)
+-   **Focus Ratio** – Minutes focused / total session minutes.
 
 ## 15. Changelog
 
-* **0.1.0 (2025‑10‑17):** Initial draft of user guide; known typos left intentionally for linting exercises (e.g., *recieve*, *slipage*).
+-   **0.1.0 (2025‑10‑17):** Initial draft of user guide; known typos left intentionally for linting exercises (e.g., _recieve_, _slipage_).
 
 ---
 
@@ -284,12 +289,17 @@ All data stays on your machine unless you export or sync explicitly.
 
 ```json
 {
-  "courses": [
-    { "name": "Algorithms", "credits": 4 },
-    { "name": "Networks", "credits": 3 }
-  ],
-  "tasks": [
-    { "title": "Lab report draft", "course": "Networks", "priority": "High", "due": "2025-10-25" }
-  ]
+    "courses": [
+        { "name": "Algorithms", "credits": 4 },
+        { "name": "Networks", "credits": 3 }
+    ],
+    "tasks": [
+        {
+            "title": "Lab report draft",
+            "course": "Networks",
+            "priority": "High",
+            "due": "2025-10-25"
+        }
+    ]
 }
 ```
