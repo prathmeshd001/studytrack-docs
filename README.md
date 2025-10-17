@@ -1,7 +1,3 @@
----
-title: StudyTrack Pro — User Guide
----
-
 # StudyTrack Pro — User Guide
 
 **Version:** 0.1.0
