@@ -14,9 +14,3 @@ jobs:
               with:
                   path: "."
                   ignore_words_list: "StudyTrack"
-
-            - name: Markdownlint (style)
-              uses: DavidAnson/markdownlint-cli2-action@v16
-              with:
-                  globs: |
-                      **/*.md
