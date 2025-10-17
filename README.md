@@ -54,7 +54,7 @@ On first launch, the wizard asks for:
 -   **Plan** – A weekly template of study blocks.
 -   **Task** – A to‑do item with due date, priority, and course tag.
 -   **Session** – A timed focus block (e.g., Pomodoro 25/5).
--   **Report** – An auto‑generated snapshot of hours, completion, and slipage.
+-   **Report** – An auto‑generated snapshot of hours, completion, and slippage.
 
 ## 6. Creating Your First Plan
 
@@ -80,7 +80,7 @@ On first launch, the wizard asks for:
 2. Choose a **Session type**: 25/5, 50/10, or Custom.
 3. Click **Start**. Notifications will alert you when breaks occur.
 
-> Note: Allow browser notifications to recieve (sic) break reminders.
+> Note: Allow browser notifications to receive break reminders.
 
 ## 9. Weekly Report
 
@@ -121,7 +121,7 @@ All data stays on your machine unless you export or sync explicitly.
 
 ## 14. Glossary
 
--   **Slipage (sic)** – The difference between planned and actual hours. (should be _slippage_)
+-   **Slippage ** – The difference between planned and actual hours. (should be _slippage_)
 -   **Focus Ratio** – Minutes focused / total session minutes.
 
 ## 15. Changelog
@@ -205,7 +205,7 @@ On first launch, the wizard asks for:
 -   **Plan** – A weekly template of study blocks.
 -   **Task** – A to‑do item with due date, priority, and course tag.
 -   **Session** – A timed focus block (e.g., Pomodoro 25/5).
--   **Report** – An auto‑generated snapshot of hours, completion, and slipage.
+-   **Report** – An auto‑generated snapshot of hours, completion, and slippage.
 
 ## 6. Creating Your First Plan
 
@@ -231,7 +231,7 @@ On first launch, the wizard asks for:
 2. Choose a **Session type**: 25/5, 50/10, or Custom.
 3. Click **Start**. Notifications will alert you when breaks occur.
 
-> Note: Allow browser notifications to recieve (sic) break reminders.
+> Note: Allow browser notifications to receive break reminders.
 
 ## 9. Weekly Report
 
@@ -272,7 +272,7 @@ All data stays on your machine unless you export or sync explicitly.
 
 ## 14. Glossary
 
--   **Slipage (sic)** – The difference between planned and actual hours. (should be _slippage_)
+-   **Slippage ** – The difference between planned and actual hours. (should be _slippage_)
 -   **Focus Ratio** – Minutes focused / total session minutes.
 
 ## 15. Changelog
